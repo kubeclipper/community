@@ -49,6 +49,10 @@ All contributions come through pull requests. To submit a proposed change, follo
 
 [Roadmap](Roadmap.md)
 
+## Release-flow
+
+[Release-flow](Release-flow.md)
+
 ## Members
 
 [All KubeClipper members here](members.md)

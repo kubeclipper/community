@@ -13,6 +13,7 @@
 | Hao Zhou   | [@sacredartr](https://github.com/sacredartr)     | 99cloud                    | [sacredartr@gmail.com](mailto:sacredartr@gmail.com) |
 | Ying Liu   | [@lysign](https://github.com/lysign)     | 99cloud                    | [lysign66@gmail.com](mailto:lysign66@gmail.com) |
 | Weiwei Mo   | [@moweiwei](https://github.com/moweiwei)     | 99cloud                    | [moweiwei6@gmail.com](mailto:moweiwei6@gmail.com) |
+| Chenchen Meng   | [@Mengchenchen](https://github.com/Mengchenchen)     | 99cloud                    | [mengcc621@gmail.com](mailto:mengcc621@gmail.com) |
 
 E-mail addresses are expected to be used for reporting security issues. Please use
 [GitHub Issues](https://github.com/kubeclipper/kubeclipper/issues) for reporting non-security issues.
