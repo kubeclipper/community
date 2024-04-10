@@ -61,3 +61,9 @@ All contributions come through pull requests. To submit a proposed change, follo
 
 * [dapr/community](https://github.com/dapr/community)
 * [kubesphere/community](https://github.com/kubesphere/community)
+
+## Daily Work
+
+1. We will check if there are any PR that need to be merged every week.
+2. We will check if there are any issue that need to be solved every week.
+3. We will regularly check the versions released by k8s,and do conformance test on KubeClipper and maintain it within the last 3 versions.
